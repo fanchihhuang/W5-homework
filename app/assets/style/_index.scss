@@ -1,0 +1,28 @@
+.container-admin{
+    width: 936px;
+    margin: 0 auto;   
+}
+h2{
+    font-size: 24px;
+    margin-bottom: 0;
+}
+.table .material-icons{
+    width: 12px;
+    height: 12px;
+}
+.page-link {
+    border: 1px solid #198754;
+    &:hover{
+        border: 1px solid #198754;
+    }
+}
+.page-item.active .page-link {
+    background-color:#198754;
+    border-color: #198754;
+}
+.page-item:first-child .page-link {
+    padding: 4px 4px 2px 4px;
+}
+.page-item:last-child .page-link {
+    padding: 4px 4px 2px 4px;
+}
