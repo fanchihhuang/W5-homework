@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap");
+body {
+  font-family: 'Lato', sans-serif;
+  line-height: 1.5; }
+
+*, *::before, *::after {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box; }
+
+img {
+  vertical-align: middle;
+  max-width: 100%;
+  height: auto; }
+
+a {
+  text-decoration: none;
+  color: #000; }
+
+.pl32 {
+  padding-left: 32px; }
+
+.pt32 {
+  padding-top: 32px; }
+
+.pt37 {
+  padding-top: 37px; }
+
+.pb32 {
+  padding-bottom: 32px; }
+
+.ml32 {
+  margin-left: 32px; }
+
+.mb63 {
+  margin-bottom: 63px; }
+
+.lh19 {
+  line-height: 19px; }
+
+.lh17 {
+  line-height: 17px; }
+
+.fz14 {
+  font-size: 14px; }
+
+.menu {
+  width: 296px; }
+
+h1 {
+  margin-bottom: 0; }
+
+p {
+  margin-bottom: 0; }
+
+.photo {
+  width: 40px;
+  height: 40px;
+  border-radius: 24px; }
+
+.container-admin {
+  width: 936px;
+  margin: 0 auto; }
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 0; }
+
+.table .material-icons {
+  width: 12px;
+  height: 12px; }
+
+.page-link {
+  border: 1px solid #198754; }
+  .page-link:hover {
+    border: 1px solid #198754; }
+
+.page-item.active .page-link {
+  background-color: #198754;
+  border-color: #198754; }
+
+.page-item:first-child .page-link {
+  padding: 4px 4px 2px 4px; }
+
+.page-item:last-child .page-link {
+  padding: 4px 4px 2px 4px; }
+
+/*# sourceMappingURL=all.css.map */
